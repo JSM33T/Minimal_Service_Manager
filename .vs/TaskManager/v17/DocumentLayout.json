@@ -1,0 +1,129 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\RUNNING\\TASK_MANAGER\\TaskManager\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{94BE41AE-1FCE-4402-B810-1394D554DFAB}|TaskManagerApi\\TaskManagerApi.csproj|d:\\running\\task_manager\\taskmanager\\taskmanagerapi\\wwwroot\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{94BE41AE-1FCE-4402-B810-1394D554DFAB}|TaskManagerApi\\TaskManagerApi.csproj|solutionrelative:taskmanagerapi\\wwwroot\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{94BE41AE-1FCE-4402-B810-1394D554DFAB}|TaskManagerApi\\TaskManagerApi.csproj|d:\\running\\task_manager\\taskmanager\\taskmanagerapi\\wwwroot\\script.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{94BE41AE-1FCE-4402-B810-1394D554DFAB}|TaskManagerApi\\TaskManagerApi.csproj|solutionrelative:taskmanagerapi\\wwwroot\\script.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{94BE41AE-1FCE-4402-B810-1394D554DFAB}|TaskManagerApi\\TaskManagerApi.csproj|d:\\running\\task_manager\\taskmanager\\taskmanagerapi\\bgservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{94BE41AE-1FCE-4402-B810-1394D554DFAB}|TaskManagerApi\\TaskManagerApi.csproj|solutionrelative:taskmanagerapi\\bgservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{94BE41AE-1FCE-4402-B810-1394D554DFAB}|TaskManagerApi\\TaskManagerApi.csproj|d:\\running\\task_manager\\taskmanager\\taskmanagerapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{94BE41AE-1FCE-4402-B810-1394D554DFAB}|TaskManagerApi\\TaskManagerApi.csproj|solutionrelative:taskmanagerapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{94BE41AE-1FCE-4402-B810-1394D554DFAB}|TaskManagerApi\\TaskManagerApi.csproj|d:\\running\\task_manager\\taskmanager\\taskmanagerapi\\servicemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{94BE41AE-1FCE-4402-B810-1394D554DFAB}|TaskManagerApi\\TaskManagerApi.csproj|solutionrelative:taskmanagerapi\\servicemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{94BE41AE-1FCE-4402-B810-1394D554DFAB}|TaskManagerApi\\TaskManagerApi.csproj|d:\\running\\task_manager\\taskmanager\\taskmanagerapi\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{94BE41AE-1FCE-4402-B810-1394D554DFAB}|TaskManagerApi\\TaskManagerApi.csproj|solutionrelative:taskmanagerapi\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "script.js",
+              "DocumentMoniker": "D:\\RUNNING\\TASK_MANAGER\\TaskManager\\TaskManagerApi\\wwwroot\\script.js",
+              "RelativeDocumentMoniker": "TaskManagerApi\\wwwroot\\script.js",
+              "ToolTip": "D:\\RUNNING\\TASK_MANAGER\\TaskManager\\TaskManagerApi\\wwwroot\\script.js",
+              "RelativeToolTip": "TaskManagerApi\\wwwroot\\script.js",
+              "ViewState": "AQIAABQAAAAAAAAAAAAcwEAAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2025-01-22T11:31:50.855Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ServiceManager.cs",
+              "DocumentMoniker": "D:\\RUNNING\\TASK_MANAGER\\TaskManager\\TaskManagerApi\\ServiceManager.cs",
+              "RelativeDocumentMoniker": "TaskManagerApi\\ServiceManager.cs",
+              "ToolTip": "D:\\RUNNING\\TASK_MANAGER\\TaskManager\\TaskManagerApi\\ServiceManager.cs",
+              "RelativeToolTip": "TaskManagerApi\\ServiceManager.cs",
+              "ViewState": "AQIAACAAAAAAAAAAAAAIwEUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-22T10:35:17.496Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "D:\\RUNNING\\TASK_MANAGER\\TaskManager\\TaskManagerApi\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "TaskManagerApi\\Properties\\launchSettings.json",
+              "ToolTip": "D:\\RUNNING\\TASK_MANAGER\\TaskManager\\TaskManagerApi\\Properties\\launchSettings.json",
+              "RelativeToolTip": "TaskManagerApi\\Properties\\launchSettings.json",
+              "ViewState": "AQIAAAYAAAAAAAAAAADwvxkAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-01-22T10:34:13.788Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\RUNNING\\TASK_MANAGER\\TaskManager\\TaskManagerApi\\Program.cs",
+              "RelativeDocumentMoniker": "TaskManagerApi\\Program.cs",
+              "ToolTip": "D:\\RUNNING\\TASK_MANAGER\\TaskManager\\TaskManagerApi\\Program.cs",
+              "RelativeToolTip": "TaskManagerApi\\Program.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAADwvxcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-22T10:22:50.456Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "index.html",
+              "DocumentMoniker": "D:\\RUNNING\\TASK_MANAGER\\TaskManager\\TaskManagerApi\\wwwroot\\index.html",
+              "RelativeDocumentMoniker": "TaskManagerApi\\wwwroot\\index.html",
+              "ToolTip": "D:\\RUNNING\\TASK_MANAGER\\TaskManager\\TaskManagerApi\\wwwroot\\index.html",
+              "RelativeToolTip": "TaskManagerApi\\wwwroot\\index.html",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAA4AAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2025-01-22T10:22:47.34Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "BGService.cs",
+              "DocumentMoniker": "D:\\RUNNING\\TASK_MANAGER\\TaskManager\\TaskManagerApi\\BGService.cs",
+              "RelativeDocumentMoniker": "TaskManagerApi\\BGService.cs",
+              "ToolTip": "D:\\RUNNING\\TASK_MANAGER\\TaskManager\\TaskManagerApi\\BGService.cs",
+              "RelativeToolTip": "TaskManagerApi\\BGService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAABCAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-22T10:20:08.505Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

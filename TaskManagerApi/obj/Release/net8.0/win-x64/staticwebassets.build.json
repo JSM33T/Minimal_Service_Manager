@@ -1,0 +1,39 @@
+{
+  "Version": 1,
+  "Hash": "2/tr+A5bZnTe8c6KeLgyarXj0BoATYcul4uyXnJvNns=",
+  "Source": "TaskManagerApi",
+  "BasePath": "_content/TaskManagerApi",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "TaskManagerApi\\wwwroot",
+      "Source": "TaskManagerApi",
+      "ContentRoot": "D:\\RUNNING\\TASK_MANAGER\\TaskManager\\TaskManagerApi\\wwwroot\\",
+      "BasePath": "_content/TaskManagerApi",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "D:\\RUNNING\\TASK_MANAGER\\TaskManager\\TaskManagerApi\\wwwroot\\index.html",
+      "SourceId": "TaskManagerApi",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\RUNNING\\TASK_MANAGER\\TaskManager\\TaskManagerApi\\wwwroot\\",
+      "BasePath": "_content/TaskManagerApi",
+      "RelativePath": "index.html",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\index.html"
+    }
+  ]
+}

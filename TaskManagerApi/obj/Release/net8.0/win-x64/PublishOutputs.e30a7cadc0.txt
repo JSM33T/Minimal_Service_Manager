@@ -1,0 +1,11 @@
+D:\RUNNING\TASK_MANAGER\TaskManager\TaskManagerApi\obj\Release\net8.0\win-x64\PubTmp\Out\TaskManagerApi.exe
+D:\RUNNING\TASK_MANAGER\TaskManager\TaskManagerApi\obj\Release\net8.0\win-x64\PubTmp\Out\appsettings.Development.json
+D:\RUNNING\TASK_MANAGER\TaskManager\TaskManagerApi\obj\Release\net8.0\win-x64\PubTmp\Out\appsettings.json
+D:\RUNNING\TASK_MANAGER\TaskManager\TaskManagerApi\obj\Release\net8.0\win-x64\PubTmp\Out\TaskManagerApi.deps.json
+D:\RUNNING\TASK_MANAGER\TaskManager\TaskManagerApi\obj\Release\net8.0\win-x64\PubTmp\Out\TaskManagerApi.runtimeconfig.json
+D:\RUNNING\TASK_MANAGER\TaskManager\TaskManagerApi\obj\Release\net8.0\win-x64\PubTmp\Out\TaskManagerApi.pdb
+D:\RUNNING\TASK_MANAGER\TaskManager\TaskManagerApi\obj\Release\net8.0\win-x64\PubTmp\Out\Microsoft.OpenApi.dll
+D:\RUNNING\TASK_MANAGER\TaskManager\TaskManagerApi\obj\Release\net8.0\win-x64\PubTmp\Out\Swashbuckle.AspNetCore.Swagger.dll
+D:\RUNNING\TASK_MANAGER\TaskManager\TaskManagerApi\obj\Release\net8.0\win-x64\PubTmp\Out\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\RUNNING\TASK_MANAGER\TaskManager\TaskManagerApi\obj\Release\net8.0\win-x64\PubTmp\Out\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\RUNNING\TASK_MANAGER\TaskManager\TaskManagerApi\obj\Release\net8.0\win-x64\PubTmp\Out\TaskManagerApi.dll
